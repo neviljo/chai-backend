@@ -1,0 +1,5 @@
+#Backend Practise
+
+backend practise series 
+[models links]--
+(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3F2aWhXV0hBYjRlUEQtMXZqbVJEd2JsdjNOQXxBQ3Jtc0ttWF9CcHpsNkI5YmJqZ1dRdGFQWnEzS0UyZVQ1cjIteWc3MElqajEyT3A2VTItQkRBU2hxSkhxX09zNnl4N2tSV3YwdEo4Y1FxbFZITW1sZFNwY1BwOGVSbW8zS0xmMWtNZmNwQ0lhNUVvVUR2eFB2MA&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
